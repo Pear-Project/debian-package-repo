@@ -1,3 +1,20 @@
+Package: pearos-appmenu
+Architecture: amd64
+Version: 26.5-1
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 780
+Depends: libc6 (>= 2.14), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libplasma7 (>= 6.1.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), libtaskmanager6 (>= 4:6.1.0), qt6-declarative-private-abi (= 6.10.2)
+Filename: ./pearos-appmenu_26.5-1_amd64.deb
+Size: 153728
+MD5sum: 1065249faf5ee98daf76cdbfe9551744
+SHA1: 46576cb0b5de64d4cf90e6e55a56112b3d7e4a9f
+SHA256: b455a916cef56547cb8c2f04db5395cee02ca0c2a4466c6dc6e17a8ae1d1a978
+SHA512: bd6f4b88b530b3d7ec5bee72939f4f60b14cce382cbb2ccb37b65027afd3394b1fdd5a18baaf696914f86f23680fe4d880ef7315f3019e44d5ade60b5df16fd1
+Homepage: https://invent.kde.org/plasma/plasma-workspace
+Description: Global Menu applet for Plasma Desktop (pearOS custom build)
+
 Package: pearos-calculator
 Architecture: amd64
 Version: 26.1-1
