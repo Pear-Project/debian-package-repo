@@ -116,6 +116,22 @@ SHA512: 2d22ca54bf91007818e7051ef7a4a00f08b5ef3ca57bfbe5a8b809d8be88f284a9680359
 Homepage: https://pearos.xyz
 Description: pearOS Goldwing branding (os-release, issue, logo) for Debian-based systems
 
+Package: pearos-icons
+Architecture: all
+Version: 26.7.0-2
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 944152
+Filename: ./pearos-icons_26.7.0-2_all.deb
+Size: 48592748
+MD5sum: 055b714097e626dd149548f6ae95e73a
+SHA1: 66355a4b342ab63bf372882f05f47457d0ba88e8
+SHA256: 87023660ad1156fc6f94186371c460077982b026f8d8789d805e57b2a2331368
+SHA512: bf11e47811b0eec0ef456c0c883185ea10cc7e045189d1f523fe32f0dd780f9d1f46ba42149abbbd63933e54025e05b21870d0033ad2b03f314fe4f931f081b6
+Homepage: https://github.com/pearOS-archlinux/pearos-icons
+Description: Icons for pearOS
+
 Package: pearos-liquidgel
 Architecture: amd64
 Version: 26.7-1
