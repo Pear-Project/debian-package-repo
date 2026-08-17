@@ -167,6 +167,23 @@ SHA512: 688451a61dca5829637e11c0f30ed66dec9882a829dc5832f92999de4cfa25d34dc51475
 Homepage: https://github.com/pearOS-archlinux/pearos-muternvf
 Description: Mutern Fonts for pearOS
 
+Package: pearos-notes
+Architecture: amd64
+Version: 26.7.0-1
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-notes_26.7.0-1_amd64.deb
+Size: 87072
+MD5sum: 4bb09b4c4bbb85dbcdfe3f1c3a7b39ff
+SHA1: ddae345ae7bd092c173b25459eb26d5cfff466e5
+SHA256: a96581284b76bb4f9b85512bd684a3c96b006d852a25501f19d20bab2561deb4
+SHA512: 4f07797aaed8c4bb8991fc3f60ed7649d137d02bd94ef0e1b07a77023ea0dc7c968e6a7b0d79cbdc20f8f9bf3190b148c6693dd39720c94d18fc9bea933f19cd
+Homepage: https://github.com/arch-linux-gui/pearos-notes
+Description: pearOS Notes - modern Qt6 notes application for pearOS
+
 Package: pearos-settings
 Architecture: all
 Version: 26.7.0-2
