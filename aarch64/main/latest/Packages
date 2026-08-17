@@ -1,3 +1,19 @@
+Package: pearos-filesystem
+Architecture: all
+Version: 26.8-1
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 932
+Filename: ./pearos-filesystem_26.8-1_all.deb
+Size: 920276
+MD5sum: b27f35a6e969c518d6205bc541a1b18b
+SHA1: 8a9c8dbb5e52e1d5df954e1a45b47c31323c466e
+SHA256: 30f446f1228464ff79dce0680a7f0bc63c37d3a33e34e595909ea201133b1e3d
+SHA512: 2d22ca54bf91007818e7051ef7a4a00f08b5ef3ca57bfbe5a8b809d8be88f284a968035937f1b653c01b347f739cb77029ea64f1ac25ce449376f0442f5af8ed
+Homepage: https://pearos.xyz
+Description: pearOS Goldwing branding (os-release, issue, logo) for Debian-based systems
+
 Package: pearos-muternvf
 Architecture: all
 Version: 26.6-1
