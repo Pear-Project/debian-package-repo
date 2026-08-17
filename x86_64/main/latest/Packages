@@ -1,0 +1,17 @@
+Package: pearos-magiclamp
+Architecture: amd64
+Version: 26.6-3
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 268
+Depends: libc6 (>= 2.14), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libkwin6 (>= 4:6.7.2), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5), kwin
+Filename: ./pearos-magiclamp_26.6-3_amd64.deb
+Size: 53284
+MD5sum: 86a07f3cf5dccf8d248286661978e115
+SHA1: 08aa3b238b8735fcaba687a38589f0856e97ee5b
+SHA256: 82c4fd2b973563efeebad3b4a0090f0f4680de813d92bdb90b8d8cae3101e644
+SHA512: 1a4f80e47b09370d0c220a036b4c4349f648feb1ec4a49c9437791ce374221ee958da496052824f29c6910fb20aef7e6d4f1798d50ce94395fd3a166dece5fbb
+Homepage: https://github.com/koryboc/pearos-magiclamp
+Description: KWin window minimization effect - Pearos Magic Lamp
+
