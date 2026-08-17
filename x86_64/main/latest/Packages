@@ -410,6 +410,23 @@ SHA512: 62337f88643d48d4aa98d98fbaae81165575cb3057bb058d6aa259e54fc1250e2a0c425c
 Homepage: https://pear-software.com
 Description: pearOS Goldwing Welcome application
 
+Package: pearos-welcome
+Architecture: amd64
+Version: 26.8.0-2
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 2416
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf6windowsystem6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5), pearos-liquidgel, hyprvisor
+Filename: ./pearos-welcome_26.8.0-2_amd64.deb
+Size: 1207544
+MD5sum: 93125f1cf0641b77ca81e7a7a7050353
+SHA1: c8aaadeb12ce7d99d19feb66b79cc8e2d9c42c9c
+SHA256: 0e3d97d3c9182c32220100683b82d85a18fea69e406e8e1f1afb1036b8e3b619
+SHA512: cefd77bd13fd850f4d2f271642639b946bf44b65d8b92b849615f4bdb30117ea0dc4e2bbe97067d8e00528e9351d40bc0c1446e75294be35593ab8fe01f4efa0
+Homepage: https://pear-software.com
+Description: pearOS Goldwing Welcome application
+
 Package: pearos-window-borders
 Architecture: amd64
 Version: 26.8.0-1
