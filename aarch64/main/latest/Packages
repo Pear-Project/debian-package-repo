@@ -31,3 +31,20 @@ SHA512: 688451a61dca5829637e11c0f30ed66dec9882a829dc5832f92999de4cfa25d34dc51475
 Homepage: https://github.com/pearOS-archlinux/pearos-muternvf
 Description: Mutern Fonts for pearOS
 
+Package: pearos-settings
+Architecture: all
+Version: 26.7.0-2
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 78432
+Depends: konsole, kmail, pearos-notes, pearos-appstore, pearos-calendar, pearos-contacts, pearos-notch, pearos-todo, pearos-calculator, pearos-liquidgel, pearos-window-borders, pearos-icons, pearos-zshconfig, system-overview
+Filename: ./pearos-settings_26.7.0-2_all.deb
+Size: 44682464
+MD5sum: b0c3f436f64b6f97d02809b3a3c34424
+SHA1: 0f53571071360aa7f461e4d5ae9bf2571ebe2841
+SHA256: fc80a1c556cd83f76378e91dc2c607b53396fc62a946dbdfa29a9da42691e34f
+SHA512: f2be50acd8ec2bb3ea78f7df013917de67df482b77f235d612f5539ac2564e9d2b338653084e4e831cd9ba8e69512910e0fbed1f45f27066601bec96013908ef
+Homepage: https://github.com/pearOS-archlinux/pearos-settings
+Description: Settings for pearOS Goldwing
+
