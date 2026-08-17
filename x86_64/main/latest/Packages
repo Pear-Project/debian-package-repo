@@ -15,6 +15,23 @@ SHA512: e82e7c1e982250932ef266e6a5fa35d5ddf603aaae32255b57813d3ffa5f8ac75439b931
 Homepage: https://github.com/pearOS-archlinux/liquid-gel
 Description: Fork of the KWin Blur effect for pearOS with additional features (including force blur) and bug fixes
 
+Package: pearos-liquidgel
+Architecture: amd64
+Version: 26.7-2
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 396
+Depends: libc6 (>= 2.32), libepoxy0 (>= 1.0), libkdecorations3-6 (>= 4:6.2.90), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libkf6widgetsaddons6 (>= 6.3.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 11), kwin-wayland
+Filename: ./pearos-liquidgel_26.7-2_amd64.deb
+Size: 87140
+MD5sum: 8c5cb7e65ba3038b03b271ea0ad0db29
+SHA1: 2dbfe310db0c3d4381feacd67df231cad41a5054
+SHA256: 0f318053d7ebab677c087fe91963113cd5d636bb0857e3dc0401ef2f1e418dd4
+SHA512: 3d04438c984293a857af3262c5b16da9c780aa662bbd7ac5c66e3881dd0f1d994cbeaf6af4e4b5a60cd7e6fa7dabe65fcdc525fad2c190ce44ac1355e371c5f2
+Homepage: https://github.com/pearOS-archlinux/liquid-gel
+Description: Fork of the KWin Blur effect for pearOS with additional features (including force blur) and bug fixes
+
 Package: pearos-magiclamp
 Architecture: amd64
 Version: 26.6-3
