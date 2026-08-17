@@ -32,3 +32,20 @@ SHA512: a83d5e0ffcd67f919d41efb8271017a8cf1d3f088be3461ed60f99a752ce958ba1996be1
 Homepage: https://github.com/koryboc/pearos-magiclamp
 Description: KWin window minimization effect - Pearos Magic Lamp
 
+Package: pearos-window-borders
+Architecture: amd64
+Version: 26.8.0-1
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 768
+Depends: libc6 (>= 2.32), libkdecorations3-6 (>= 4:6.4.91), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6guiaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libkf6kcmutilscore6 (>= 6.0.0), libkf6widgetsaddons6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.9.1), libqt6widgets6 (>= 6.7.2), libstdc++6 (>= 5), kwin-wayland, libkf6widgetsaddons6, pearos-muternvf, pearos-window-tinter
+Filename: ./pearos-window-borders_26.8.0-1_amd64.deb
+Size: 151916
+MD5sum: 6eca818021514a1053a6667ffc7189a8
+SHA1: 861d9048c169a430fb8cabb3aac040deff0c5a5d
+SHA256: 2bfa19527463faf43fee79f1e922820d437a00eaf9d4227dcf52de4ff4839a11
+SHA512: 3b2af7e9093d08c2433973416ece9bad8d1d235a8d240096c42573c7fb7f78ad66ddedc1886f1dc18ffd902cb5f58276cf4d8d21b6923798e43c4f0e8187baa6
+Homepage: https://pearos.xyz
+Description: pearOS-style KWin window border
+
