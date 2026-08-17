@@ -1,3 +1,20 @@
+Package: pearos-bootsound
+Architecture: all
+Version: 26.6.2-1
+Priority: optional
+Section: sound
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 24
+Depends: mpv, pearos-settings
+Filename: ./pearos-bootsound_26.6.2-1_all.deb
+Size: 1148
+MD5sum: 80be8931114754d39334315d77bc4470
+SHA1: 3e9feb5f804b71d09c91a4536a2b66f9af7660e5
+SHA256: 3c67a199bfef641cd5baa3dc49222243ad19e6e17368e8d569def1a582746e93
+SHA512: e8d180af9236da29133cbffee00959012518ccfcf99e8d323ce33e4a6bd9cc7d7a41518eb84a71cc4f36f15d7f18e78b56c7c656054714fd55c6a9623a7e4e25
+Homepage: https://github.com/Pear-Project/pearos-boot-sound
+Description: Boot sound service for pearOS
+
 Package: pearos-filesystem
 Architecture: all
 Version: 26.8-1
