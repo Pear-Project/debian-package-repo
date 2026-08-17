@@ -47,6 +47,22 @@ SHA512: bf11e47811b0eec0ef456c0c883185ea10cc7e045189d1f523fe32f0dd780f9d1f46ba42
 Homepage: https://github.com/pearOS-archlinux/pearos-icons
 Description: Icons for pearOS
 
+Package: pearos-livecd-desktop
+Architecture: all
+Version: 22.03-1
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 20
+Filename: ./pearos-livecd-desktop_22.03-1_all.deb
+Size: 1008
+MD5sum: 92d860e54645ea4c3096d03cf5ab32b0
+SHA1: d0463d18f2e79005ac1b49faf9098100e7eaa8b1
+SHA256: b8a392f5b7ec1a0153c3cd7aaf42aa8b17bf4e49b5476724251c5556a3e9d37e
+SHA512: e24d9f0b81314d86bcb42bb72b4c0cb5421f08b8395dffd39fb76c1f83b990259490fbc26abc03b64340720e516784cfc46a82ae355538403f6336e48617b52b
+Homepage: https://github.com/pearOS-archlinux/pearos-livecd-desktop
+Description: Default pearOS installer shortcut for the live desktop
+
 Package: pearos-muternvf
 Architecture: all
 Version: 26.6-1
