@@ -15,6 +15,26 @@ SHA512: 18469c551c13ba7b6311e02e61520049ce04b0855a106c46058fa7557b80c4df26f52d5a
 Homepage: https://github.com/alxb421/hyprvisor
 Description: GPU driver manager CLI + GTK GUI for pearOS, wrapping ubuntu-drivers
 
+Package: linux-headers-6.18.42-pearos
+Architecture: amd64
+Version: 6.18.42-14
+Priority: optional
+Section: kernel
+Source: pearos-cachy-kernel
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 56821
+Filename: ./linux-headers-6.18.42-pearos_6.18.42-14_amd64.deb
+Size: 9893464
+MD5sum: 83868fd9a30e2f16f7c3afc2015bd1a4
+SHA1: c65eb14714a8dd75efe67f3e84c2f884ca1b7aee
+SHA256: f37c56338ba18a635028c9c5b743d091a4ecad250b2c69cccf7b5241dab7d85a
+SHA512: 51c2512b5f97873b53298e8f4ea08d0ead0e3b400e001c42b17412ac455df6be95b654dd305e75989f89401a2829ffd27a84b58a20934745993bdfce5f76878f
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.18.42-pearos-debian on amd64
+ This package provides kernel header files for 6.18.42-pearos-debian on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.1.6-pearos
 Architecture: amd64
 Version: 7.1.6-10
@@ -34,6 +54,27 @@ Description: Linux kernel headers for 7.1.6-pearos-debian on amd64
  This package provides kernel header files for 7.1.6-pearos-debian on amd64
  .
  This is useful for people who need to build external modules
+
+Package: linux-libc-dev
+Architecture: amd64
+Version: 6.18.42-14
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: pearos-cachy-kernel
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 7556
+Provides: linux-kernel-headers
+Filename: ./linux-libc-dev_6.18.42-14_amd64.deb
+Size: 1512706
+MD5sum: d25ed39bbb2d2d552d4a8cf106dfcc63
+SHA1: c60f61593033d260cd43485310c0714ec846bfbe
+SHA256: 92ffdda133544d351257da8268a97dd584e2d963cb5c6622ce07cddf3390c2fd
+SHA512: b702b8b85e8055a16c3a7922ed763f8d1ba857db9022c17c69556a62249eaea556dad9ed75860aa0a80db4061ecbe94864851bc815fe93ddee16822771b3399c
+Homepage: https://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
 
 Package: linux-libc-dev
 Architecture: amd64
