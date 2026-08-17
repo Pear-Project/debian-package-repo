@@ -65,3 +65,19 @@ SHA512: f2be50acd8ec2bb3ea78f7df013917de67df482b77f235d612f5539ac2564e9d2b338653
 Homepage: https://github.com/pearOS-archlinux/pearos-settings
 Description: Settings for pearOS Goldwing
 
+Package: pearos-zshconfig
+Architecture: all
+Version: 26.4.0-1
+Priority: optional
+Section: shells
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 24
+Filename: ./pearos-zshconfig_26.4.0-1_all.deb
+Size: 1296
+MD5sum: cad9e7c6691d66086bfa8f8578b8b899
+SHA1: 0377883d961dd9275a10d2d10545b49dc7423231
+SHA256: cbdfc74ca60a21a6043ee85ffba3c31f566b4f7aae25cb03a5b8c79c3471cb7b
+SHA512: 1a8fc3593dc30c4e15913c9899539ebae7ce5cb44ebfc3b7d35577acd74fdb810a71bbb4c74450854727093e4d721c79f25afa00525b4fd9c0faa1252880d89f
+Homepage: https://pear-software.com
+Description: pearOS NiceC0re ZSH config file
+
