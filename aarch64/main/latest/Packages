@@ -250,6 +250,23 @@ SHA512: fe5d0ca301cffe45e6319cfa3a1919b1ea7a779bf99a56e21d8bd70eca42c91ec66bd053
 Homepage: https://pearos.xyz/
 Description: Dynamic notch widget for Linux
 
+Package: pearos-notes
+Architecture: arm64
+Version: 26.7.0-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 440
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-notes_26.7.0-3_arm64.deb
+Size: 80032
+MD5sum: e53d3a73b2e76623b4adf0d61d37a411
+SHA1: 014d1b08e7c7aa3e7ded185a35948cc20e604bf4
+SHA256: 8666057452e746651239ade9ac7fb5eebb0b3f026946c3f69537e38c39a3aaf9
+SHA512: 2703b40c2b16ac1831b6d5372b705553d6aa93772fd5ede07f922db12a338581682e451bf7a293523f7780873103b082dde44907a28909dbc48e2bfb42655c9e
+Homepage: https://github.com/arch-linux-gui/pearos-notes
+Description: pearOS Notes - modern Qt6 notes application for pearOS
+
 Package: pearos-settings
 Architecture: all
 Version: 26.7.0-2
