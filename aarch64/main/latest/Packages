@@ -233,6 +233,23 @@ SHA512: 688451a61dca5829637e11c0f30ed66dec9882a829dc5832f92999de4cfa25d34dc51475
 Homepage: https://github.com/pearOS-archlinux/pearos-muternvf
 Description: Mutern Fonts for pearOS
 
+Package: pearos-notch
+Architecture: arm64
+Version: 26.6.1-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 492
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), liblayershellqtinterface6 (>= 6.4.91), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.9.1), libqt6network6 (>= 6.1.2), libqt6svg6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), libxcb1, layer-shell-qt
+Filename: ./pearos-notch_26.6.1-3_arm64.deb
+Size: 220204
+MD5sum: 9ec7dd212d3b16916e7f9b6434ad7d27
+SHA1: 10fea715c1c11d5652693115f96a180652762d8c
+SHA256: 6bef52a68aaf1b773fa8336a5d08808857a66e3a52bc92576b22eee832c6718f
+SHA512: fe5d0ca301cffe45e6319cfa3a1919b1ea7a779bf99a56e21d8bd70eca42c91ec66bd0534070becae62b754023a6b27759a3601d02b055a543cd318c80ba3709
+Homepage: https://pearos.xyz/
+Description: Dynamic notch widget for Linux
+
 Package: pearos-settings
 Architecture: all
 Version: 26.7.0-2
