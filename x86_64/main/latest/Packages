@@ -267,6 +267,23 @@ SHA512: 287870413c85a925e9912a36edad9e7322af0d59395ed2fcb92d0084d57bb0dbef6ffa45
 Homepage: https://github.com/arch-linux-gui/pearos-contacts
 Description: pearOS Contacts - modern Qt6 contacts application for pearOS
 
+Package: pearos-contacts
+Architecture: amd64
+Version: 26.7.0-2
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-contacts_26.7.0-2_amd64.deb
+Size: 88372
+MD5sum: 8e95cfc33ab3437e57ffe667f6d6bb86
+SHA1: 0dcc4a02964cc050437221b727d8743b187a802b
+SHA256: 7d47b662d9a865f05ffa2ce6f9a55a28228abbd14010c7cb40d557ad1766395d
+SHA512: 558e4dff6a4de1021b9b75f4a73314b6bc113fec6e809c5ecb307d4b16edb0bef833ffb0b7bc7b2df7420335e79153d254f8b8bef480631a0743903f36f3239b
+Homepage: https://github.com/arch-linux-gui/pearos-contacts
+Description: pearOS Contacts - modern Qt6 contacts application for pearOS
+
 Package: pearos-dock
 Architecture: amd64
 Version: 26.6.10-2
