@@ -519,6 +519,23 @@ SHA512: b166b62f7a13d3b3314f256ea215fe030c2d8cfd340594769fcf054b9dfb4b3450ee870d
 Homepage: https://pearos.xyz/
 Description: Dynamic notch widget for Linux
 
+Package: pearos-notch
+Architecture: amd64
+Version: 26.6.1-2
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 468
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), liblayershellqtinterface6 (>= 6.4.91), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.9.1), libqt6network6 (>= 6.1.2), libqt6svg6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), libxcb1, layer-shell-qt
+Filename: ./pearos-notch_26.6.1-2_amd64.deb
+Size: 226864
+MD5sum: e23d14acd26abbbd562fd682cb69cfcb
+SHA1: 11fc5f46c9baf1d92b79a1683a56ac030f1484ed
+SHA256: 0290cb304f5e221f23073e43cb4e1eb8fe1e23818de16db050411e230d08fa3f
+SHA512: e26f438ec00bb9da290d66cf6655643c74d422623ca4fde439cde7c8b9d61b87988459823f7c58c3fb81d0a1421fa41a51fe30c0fbcb82644a58a0db92459269
+Homepage: https://pearos.xyz/
+Description: Dynamic notch widget for Linux
+
 Package: pearos-notes
 Architecture: amd64
 Version: 26.7.0-1
