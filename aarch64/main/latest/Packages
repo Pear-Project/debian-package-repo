@@ -117,6 +117,23 @@ SHA512: cac7add01fb0486bb499f8ef8abde21206c607eef8c507858f34ae7af5fb658f61af3f23
 Homepage: https://github.com/arch-linux-gui/pearos-contacts
 Description: pearOS Contacts - modern Qt6 contacts application for pearOS
 
+Package: pearos-dock
+Architecture: arm64
+Version: 26.6.10-4
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 1292
+Depends: kio6, libc6 (>= 2.32), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6jobwidgets6 (>= 6.0.0), libkf6kiocore6 (>= 6.0.0), libkf6kiofilewidgets6 (>= 6.0.0), libkf6kiogui6 (>= 6.0.0), libkf6service-bin, libkf6service6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libnotificationmanager1 (>= 4:6.1.0), libplasmaactivitiesstats1 (>= 6.1.0), libprocesscore11 (>= 4:6.4.91), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.6.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-dock_26.6.10-4_arm64.deb
+Size: 313476
+MD5sum: a6d5ab45fa4b4d69bbeb87131f75557e
+SHA1: 22bd64d2d568f2179e38eeadf559db472c709a3c
+SHA256: 40c09a7ffa0d2e4ae001c37d4ee9b68e17b923ff76a723b65b7311f308d383ad
+SHA512: 79b76b8fdaa8af1b61fed394846663573d29c08b6e03e95184d7358a14005f4b957aa4e41d797beeeb954c050beb7e209e29e484bdf83eeb7369c5acd59dd6ef
+Homepage: https://github.com/pearOS-ArchLinux/pearos-dock
+Description: Tahoe-style dock for KDE Plasma 6
+
 Package: pearos-filesystem
 Architecture: all
 Version: 26.8-1
