@@ -130,3 +130,20 @@ SHA512: 1a8fc3593dc30c4e15913c9899539ebae7ce5cb44ebfc3b7d35577acd74fdb810a71bbb4
 Homepage: https://pear-software.com
 Description: pearOS NiceC0re ZSH config file
 
+Package: system-settings
+Architecture: arm64
+Version: 26.7.0-5
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 25336
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5), libx11-6, qt6-declarative-private-abi (= 6.10.2), fprintd, power-profiles-daemon, jq, qt6-5compat
+Filename: ./system-settings_26.7.0-5_arm64.deb
+Size: 5254796
+MD5sum: 3a2bf4dba600001cb246260f96c5712c
+SHA1: e94ff483a4c26d0421e56e9b2d51ededdc66a0a3
+SHA256: 7dee1fb33ffee885075b87da4623ac79dfa307debfba5e7b2735e2f17540639d
+SHA512: 6255a1d79ed1f0c465097562bed81cf5df1915d5d7655607b0416b4a817361f09ba7996c73f990b0e3b110a1708ebd82e5cc13a0239c3da863da5e04248c9b75
+Homepage: https://pearos.xyz
+Description: pearOS System Settings application (Qt6/QML)
+
