@@ -318,6 +318,23 @@ SHA512: 362689147704421391822ca516bb8d26690f4fd9547642c24fc6931d8cb95ab55feff498
 Homepage: https://pear-software.com
 Description: pearOS Goldwing Welcome application
 
+Package: pearos-window-borders
+Architecture: arm64
+Version: 26.8.0-4
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 876
+Depends: libc6 (>= 2.32), libkdecorations3-6 (>= 4:6.4.91), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6guiaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libkf6kcmutilscore6 (>= 6.0.0), libkf6widgetsaddons6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.9.1), libqt6widgets6 (>= 6.7.2), libstdc++6 (>= 5), kwin-wayland, pearos-muternvf, pearos-window-tinter
+Filename: ./pearos-window-borders_26.8.0-4_arm64.deb
+Size: 141560
+MD5sum: 8462afe7743ce7610da8158f5090dc3c
+SHA1: 1e9750c5a9915532c79b36d75c8361a7be83afd2
+SHA256: 561476206b9716165f4a127082b420c10ac65d4921d38b87dc172f80d94f0123
+SHA512: 8d7b7543eeedc110ba0ce033016b7fa425efe42243e22939549fc5cc661770689c1e6ab798e4b67ea985b5d5107aa1452bce2d34af374af7600b7014469ff0d1
+Homepage: https://pearos.xyz
+Description: pearOS-style KWin window border
+
 Package: pearos-zshconfig
 Architecture: all
 Version: 26.4.0-1
