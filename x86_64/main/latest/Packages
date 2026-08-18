@@ -182,6 +182,23 @@ SHA512: 138b07eef0f2cc7e2d4fce1bc51fbd8a331795f689df2d878259b8fd3fa1d4fe11214680
 Homepage: https://invent.kde.org/plasma/plasma-workspace
 Description: Global Menu applet for Plasma Desktop (pearOS custom build)
 
+Package: pearos-appmenu
+Architecture: amd64
+Version: 26.5-3
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 780
+Depends: libc6 (>= 2.14), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libplasma7 (>= 6.1.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), libtaskmanager6 (>= 4:6.1.0), qt6-declarative-private-abi (= 6.10.2)
+Filename: ./pearos-appmenu_26.5-3_amd64.deb
+Size: 153616
+MD5sum: ec5ae6e0fdacf3b1e7c42c61c96b9b6f
+SHA1: 11f56fca0ed4d0ca45edd3dc320acd55913af4db
+SHA256: 7ec1c25bc162b8043b26706afa8220c2b0550486046d70daeb81545bc423ff00
+SHA512: 6bad9bfab7c7cb5702a13c9837dfe16e655f42e6a9676b37b68ae23ace93f5afc2b9cc7286deaa91a537842f41a2c0422e31263d426b4e5f27cb873648234f9e
+Homepage: https://invent.kde.org/plasma/plasma-workspace
+Description: Global Menu applet for Plasma Desktop (pearOS custom build)
+
 Package: pearos-bootsound
 Architecture: all
 Version: 26.6.2-1
