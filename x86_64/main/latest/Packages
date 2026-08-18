@@ -472,6 +472,22 @@ SHA512: 2d22ca54bf91007818e7051ef7a4a00f08b5ef3ca57bfbe5a8b809d8be88f284a9680359
 Homepage: https://pearos.xyz
 Description: pearOS Goldwing branding (os-release, issue, logo) for Debian-based systems
 
+Package: pearos-filesystem
+Architecture: all
+Version: 26.8-2
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 940
+Filename: ./pearos-filesystem_26.8-2_all.deb
+Size: 920324
+MD5sum: 4ce6319cb45f90cc58a14d55839bb124
+SHA1: 0435367112a71726246739d17581f70795b088df
+SHA256: c6fba673fc1aea2248418045af204f16dc691fe561888f858676b2f9093fa973
+SHA512: 1ccc4e215c05ffdf7acbe893c36a083ca1049651fbee2a9763bb7ddb55a735b22d2af04dd31f9d7209e7e496237c5b17bdeb4c0af5b988a972c19673ab5ac48c
+Homepage: https://pearos.xyz
+Description: pearOS Goldwing branding (os-release, issue, logo) for Debian-based systems
+
 Package: pearos-icons
 Architecture: all
 Version: 26.7.0-2
