@@ -67,6 +67,24 @@ SHA512: 6efa03343f4557260609edfaec45c3b8ad4ba9de1742785b2848281db1aaedb905d00300
 Homepage: https://github.com/alxb421/hyprvisor
 Description: GPU driver manager CLI + GTK GUI for pearOS, wrapping ubuntu-drivers
 
+Package: hyprvisor
+Architecture: amd64
+Version: 26.8-5
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 136
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1), hwdata, pciutils, python3, python3-gi, gir1.2-gtk-3.0, polkitd
+Recommends: ubuntu-drivers-common
+Filename: ./hyprvisor_26.8-5_amd64.deb
+Size: 37916
+MD5sum: 4c0670d04a1caedd634b4d97d34b3265
+SHA1: 359f9d4cf551e7abebb859665d672e9bf716c498
+SHA256: afecd7e9a9a1be2f33d43b499d66bc88294e7104b5b8d7b83de72d14a3e5c189
+SHA512: 4975e1554e470eb7ee1de384c93a011cd3e5755cf967fa1b6661ec15fed6cab4b5370f2d20f42b6889b6c413be934ce832a57d3caad1c65148ffc4111ce981cd
+Homepage: https://github.com/alxb421/hyprvisor
+Description: GPU driver manager CLI + GTK GUI for pearOS, wrapping ubuntu-drivers
+
 Package: linux-headers-6.18.42-pearos
 Architecture: amd64
 Version: 6.18.42-14
