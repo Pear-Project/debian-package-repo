@@ -457,6 +457,23 @@ SHA512: 1a8fc3593dc30c4e15913c9899539ebae7ce5cb44ebfc3b7d35577acd74fdb810a71bbb4
 Homepage: https://pear-software.com
 Description: pearOS NiceC0re ZSH config file
 
+Package: pearos-zshconfig
+Architecture: all
+Version: 26.4.0-2
+Priority: optional
+Section: shells
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 24
+Depends: zsh, zsh-autosuggestions, wtmpdb
+Filename: ./pearos-zshconfig_26.4.0-2_all.deb
+Size: 1316
+MD5sum: cc96fd0c5686efeb4ee16d7dfccb593c
+SHA1: 70cf71902edcb257003e8bce3896bbb06072e9f3
+SHA256: 9a90cf4992857365039363066aa39feff35efeb12218027785e6d71625fbc195
+SHA512: f5d0735e9652c87f6a528b8df2a5c81e62953aebcc5c2b567213e2381fd6e18158f24664e4d86442ea64769944a244931f04c3aeff297dd4214ad15ed86a2199
+Homepage: https://pear-software.com
+Description: pearOS NiceC0re ZSH config file
+
 Package: system-overview
 Architecture: arm64
 Version: 26.3-3
