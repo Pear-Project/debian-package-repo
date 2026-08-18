@@ -403,6 +403,23 @@ SHA512: e460946cc1f4c529ac3838663f1654be44c783b43fff9490b0bdb448916dd37c520a8ef4
 Homepage: https://github.com/pearOS-ArchLinux/pearos-dock
 Description: Tahoe-style dock for KDE Plasma 6
 
+Package: pearos-dock
+Architecture: amd64
+Version: 26.6.10-4
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 1240
+Depends: kio6, libc6 (>= 2.32), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6jobwidgets6 (>= 6.0.0), libkf6kiocore6 (>= 6.0.0), libkf6kiofilewidgets6 (>= 6.0.0), libkf6kiogui6 (>= 6.0.0), libkf6service-bin, libkf6service6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libnotificationmanager1 (>= 4:6.1.0), libplasmaactivitiesstats1 (>= 6.1.0), libprocesscore11 (>= 4:6.4.91), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.1.2), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.6.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-dock_26.6.10-4_amd64.deb
+Size: 318008
+MD5sum: d4e78dc2e01c2d44a448b63df79ce689
+SHA1: 63f484ef199e8a2dc490bb6f3d5149531fe802f6
+SHA256: b88700d9676f07241841ea4b9cbdf4a07c60b7069bcef1f6aab6246ce7971c1c
+SHA512: fa3226e7a9921eba1669cdd87887ccbee1531b3cd86441d10cdfc4e39b5de73a397d60918ede875e2072f76ed7fefdf7aebb48dddbbb8e85515243212135415b
+Homepage: https://github.com/pearOS-ArchLinux/pearos-dock
+Description: Tahoe-style dock for KDE Plasma 6
+
 Package: pearos-filesystem
 Architecture: all
 Version: 26.8-1
