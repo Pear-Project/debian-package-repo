@@ -32,6 +32,23 @@ SHA512: 52e38ac0b267784fa6f4036e4aaa59c44bd47498b01946d47d88e2c855957b9f0622032a
 Homepage: https://github.com/pearOS-archlinux/neofetch
 Description: A CLI system information tool written in BASH that supports displaying images.
 
+Package: pearos-appmenu
+Architecture: arm64
+Version: 26.5-3
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 816
+Depends: libc6 (>= 2.17), libkf6coreaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libplasma7 (>= 6.1.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5), libtaskmanager6 (>= 4:6.1.0), qt6-declarative-private-abi (= 6.10.2)
+Filename: ./pearos-appmenu_26.5-3_arm64.deb
+Size: 142168
+MD5sum: 93eb790741dd8bde8478bcfe219c889d
+SHA1: cd2f53fb9451e787e7e5afb9bc9624425d124a2b
+SHA256: fa410d0a8d2059975d662e20ed7124cf214456b56a2aa2c3200380cfd3cd44f6
+SHA512: fabef901e53e09928e22a89efbaaefca9a75a68374de24b874bca3fd9b130fc07f3e3b4ce5e3ec3c574378253bde3e5155a8b98778200eece81e387034c50de9
+Homepage: https://invent.kde.org/plasma/plasma-workspace
+Description: Global Menu applet for Plasma Desktop (pearOS custom build)
+
 Package: pearos-bootsound
 Architecture: all
 Version: 26.6.2-1
