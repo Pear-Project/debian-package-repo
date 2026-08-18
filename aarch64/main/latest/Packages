@@ -66,6 +66,23 @@ SHA512: e8d180af9236da29133cbffee00959012518ccfcf99e8d323ce33e4a6bd9cc7d7a41518e
 Homepage: https://github.com/Pear-Project/pearos-boot-sound
 Description: Boot sound service for pearOS
 
+Package: pearos-calculator
+Architecture: arm64
+Version: 26.1-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Filename: ./pearos-calculator_26.1-3_arm64.deb
+Size: 234996
+MD5sum: 5ddc161390e44b36cead23164199f465
+SHA1: ace8735aa0e6b45f3ca5a8b575dfbaeb51f88ee2
+SHA256: 089dcfeb9198dc653a6af3c44c783d27494443fb8faf88fa65ca27546e549786
+SHA512: e40777a6ced4a9badba09408ff5c97ccec8a9aa7379696002b9ad7109d3aac31b9b4028c9d8837dd5606001895d82cc24054e39d464ddec438ceafc45d7a05b4
+Homepage: https://pearos.xyz
+Description: pearOS Calculator
+
 Package: pearos-filesystem
 Architecture: all
 Version: 26.8-1
