@@ -284,6 +284,23 @@ SHA512: f2be50acd8ec2bb3ea78f7df013917de67df482b77f235d612f5539ac2564e9d2b338653
 Homepage: https://github.com/pearOS-archlinux/pearos-settings
 Description: Settings for pearOS Goldwing
 
+Package: pearos-todo
+Architecture: arm64
+Version: 26.7.0-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 432
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-todo_26.7.0-3_arm64.deb
+Size: 76880
+MD5sum: a1d54abe04e583325bb9c700fe8608e5
+SHA1: 061ef41cf7e5b144aa563edb13a78d069ca1079b
+SHA256: 61771b4f3d5e004d64c7c21c9e02db4dbce1a2957aec83aac6c69b96cb27f715
+SHA512: 0df4cc6082ada1a8985c1e128b1613369cf8337fee942735468cf92c87fe4fbb8bc28e5b0829a2fe54541fefc305ec489921ae3fbd0c1786284b7c043f91ec2c
+Homepage: https://github.com/arch-linux-gui/pearos-todo
+Description: pearOS ToDo - modern Qt6 to-do application for pearOS
+
 Package: pearos-zshconfig
 Architecture: all
 Version: 26.4.0-1
