@@ -1054,6 +1054,23 @@ SHA512: 1654a0de68a13fcbedaeae248fd3cb72e386bd670518b4188ccd0d3901e16ecb369c847a
 Homepage: https://pearos.xyz
 Description: pearOS NiceC0re System Overview application (Qt6 native)
 
+Package: system-overview
+Architecture: amd64
+Version: 26.3-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 140
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./system-overview_26.3-3_amd64.deb
+Size: 25728
+MD5sum: 690db3aaeeb54c2c1b756bb4ec1b0262
+SHA1: 718735d04a0eee9d42c9fd3443aa09c50a7542a1
+SHA256: c76f6f4274d5772b4a9b01f63d6abde94d6219410dccfd2ab4755b04e4f8d8c7
+SHA512: a0d584896d6f1a05655dffd7d58fcd4e3e9dc195848750d6dbba16eeb039868c66c45aefb9bea40b4e10b4c30de82007092065ec4ac7244cebb6c696bb2383b8
+Homepage: https://pearos.xyz
+Description: pearOS NiceC0re System Overview application (Qt6 native)
+
 Package: system-settings
 Architecture: amd64
 Version: 26.7.0-3
