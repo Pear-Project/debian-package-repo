@@ -604,6 +604,23 @@ SHA512: 48c2afc9d229b5a0fbd16e112a8850ad5552a9365dd583ad9b5853a07c65dcc76b405c96
 Homepage: https://github.com/arch-linux-gui/pearos-todo
 Description: pearOS ToDo - modern Qt6 to-do application for pearOS
 
+Package: pearos-todo
+Architecture: amd64
+Version: 26.7.0-2
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 408
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-todo_26.7.0-2_amd64.deb
+Size: 83808
+MD5sum: 08f6756d17c34a1ec692fc59a29c6a56
+SHA1: 46d688f2e23950d85b6ca5163d138cb98257726c
+SHA256: 91b813d76b6772cbfffe9ebfdf0964807d426b4095b765591d43785109f7119f
+SHA512: e0d4e82ab68f0c394d0ace8fc24588b1c032019ec443805db5029e23a955c09c8260913b1e2e61bb8fe769b0c07f1f4fbd2d3d5aa5f59f3bd749e3d2157015fe
+Homepage: https://github.com/arch-linux-gui/pearos-todo
+Description: pearOS ToDo - modern Qt6 to-do application for pearOS
+
 Package: pearos-welcome
 Architecture: amd64
 Version: 26.8.0-1
