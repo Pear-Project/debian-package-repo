@@ -233,6 +233,23 @@ SHA512: 5ff4ae6390e57d84b97099ace03fbe01cb23a3c2cf319f001ce1e230f496c0bdf4991665
 Homepage: https://github.com/arch-linux-gui/pearos-calendar
 Description: pearOS Calendar - modern Qt6 calendar application for pearOS
 
+Package: pearos-calendar
+Architecture: amd64
+Version: 26.7-2
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.9.1), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Filename: ./pearos-calendar_26.7-2_amd64.deb
+Size: 88628
+MD5sum: 1b66cb1b37d0670b5cf045b01888e763
+SHA1: 0c315a14b1db00a2c69487ec0fc79d12f9b270d1
+SHA256: 93ce0fe5033557f70cfd6c5c8fcf6d471ca01a5372bc98cc127d84e63eeae013
+SHA512: 77fa2488fb961f46ec48d794be60c9c6f7cc36588b4648254a668fad0606a12941fd665be2e5f568f4de95cb0a93cf68099b989a1e767d0d8e99ba3f3857d828
+Homepage: https://github.com/arch-linux-gui/pearos-calendar
+Description: pearOS Calendar - modern Qt6 calendar application for pearOS
+
 Package: pearos-contacts
 Architecture: amd64
 Version: 26.7.0-1
