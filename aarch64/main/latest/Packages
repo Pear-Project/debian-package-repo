@@ -199,6 +199,23 @@ SHA512: e24d9f0b81314d86bcb42bb72b4c0cb5421f08b8395dffd39fb76c1f83b990259490fbc2
 Homepage: https://github.com/pearOS-archlinux/pearos-livecd-desktop
 Description: Default pearOS installer shortcut for the live desktop
 
+Package: pearos-magiclamp
+Architecture: arm64
+Version: 26.6-6
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 308
+Depends: libc6 (>= 2.17), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5), kwin-wayland
+Filename: ./pearos-magiclamp_26.6-6_arm64.deb
+Size: 50096
+MD5sum: 6c2fe9c1257ea04532a75f62db4db31b
+SHA1: 8ab3ef2801f5f6945d56f733d1725cb272618438
+SHA256: e113531df448177883ece686bf58b62e14157ec35647c622cb7b7b14df8b1b0c
+SHA512: da78bb298cdcda987497f1e5c0de8dc1112e582bc173e15f1f6f7cac3c09ad5e7619a7f890de29d8de739d3dc345d911cc4229fad95b9af270deb9ed7ffa0927
+Homepage: https://github.com/koryboc/pearos-magiclamp
+Description: KWin window minimization effect - Pearos Magic Lamp
+
 Package: pearos-muternvf
 Architecture: all
 Version: 26.6-1
