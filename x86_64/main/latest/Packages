@@ -723,6 +723,23 @@ SHA512: 9c50dfaa66d51334b48d80a57494894657781752401e70073fd31878ce40710c8b2870f9
 Homepage: https://github.com/arch-linux-gui/pearos-notes
 Description: pearOS Notes - modern Qt6 notes application for pearOS
 
+Package: pearos-notes
+Architecture: amd64
+Version: 26.7.0-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 5)
+Filename: ./pearos-notes_26.7.0-3_amd64.deb
+Size: 86880
+MD5sum: 3d52197d3b2e9e2dba19afbd7a966e54
+SHA1: 58fc7fae81bbe7016cc578c437fc6ec1e91d6a27
+SHA256: 63872cecb29000b82b5b37ed35ca8331b4ce39e9bfc25b0b037726e606318e5a
+SHA512: 22c4d12f2302e15b5b1f9866bd8d2ea938268fb4e13d677e6558e01f84b4e8c7d7ecf81f66f7a7cc0ce6609777f5f66f6efa9c16329cba13157b6a88e7f8d198
+Homepage: https://github.com/arch-linux-gui/pearos-notes
+Description: pearOS Notes - modern Qt6 notes application for pearOS
+
 Package: pearos-settings
 Architecture: all
 Version: 26.7.0-2
