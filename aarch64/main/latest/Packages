@@ -83,6 +83,23 @@ SHA512: e40777a6ced4a9badba09408ff5c97ccec8a9aa7379696002b9ad7109d3aac31b9b4028c
 Homepage: https://pearos.xyz
 Description: pearOS Calculator
 
+Package: pearos-calendar
+Architecture: arm64
+Version: 26.7-3
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 436
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.9.1), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Filename: ./pearos-calendar_26.7-3_arm64.deb
+Size: 81188
+MD5sum: 4b6048119d63ce53c6872837fb22921d
+SHA1: 2d1f5363dd6976a4b2e262c4604369dc3f61a3ef
+SHA256: 24f903de46783908238822dc70a855f733ca28175070e03c56c5fb6acd0b7562
+SHA512: 68095b0bfe843a0501c4aaac29a1c424ba5b7bc5990c828332210066268005eeb5d81590a176eb982819eedae3a2eb287b1d56b6d809961326714edb39e5f4d5
+Homepage: https://github.com/arch-linux-gui/pearos-calendar
+Description: pearOS Calendar - modern Qt6 calendar application for pearOS
+
 Package: pearos-filesystem
 Architecture: all
 Version: 26.8-1
