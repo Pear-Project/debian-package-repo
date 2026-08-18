@@ -605,6 +605,22 @@ SHA512: e24d9f0b81314d86bcb42bb72b4c0cb5421f08b8395dffd39fb76c1f83b990259490fbc2
 Homepage: https://github.com/pearOS-archlinux/pearos-livecd-desktop
 Description: Default pearOS installer shortcut for the live desktop
 
+Package: pearos-livecd-desktop
+Architecture: all
+Version: 22.03-2
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 20
+Filename: ./pearos-livecd-desktop_22.03-2_all.deb
+Size: 1020
+MD5sum: 763a5d97c2513bd58f7d3aefc640ed38
+SHA1: 93b4dabec54b4e6cbd63b52cf8b418f49791bb75
+SHA256: 5a6eae8cd33405fd6782d39d4ee9e279bb01e75531f19a52d3e9d99cba5d20a0
+SHA512: 9d74e5018b94db25d8faaba7bd60de9341b33e31636bdc7877d4885333728bb7cfa65f74708f287d8008daa70dae0d2767780aa690e1794bcda99382aef6a42e
+Homepage: https://github.com/pearOS-archlinux/pearos-livecd-desktop
+Description: Default pearOS installer shortcut for the live desktop
+
 Package: pearos-magiclamp
 Architecture: amd64
 Version: 26.6-3
