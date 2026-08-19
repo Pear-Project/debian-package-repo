@@ -184,6 +184,23 @@ SHA512: 52e38ac0b267784fa6f4036e4aaa59c44bd47498b01946d47d88e2c855957b9f0622032a
 Homepage: https://github.com/pearOS-archlinux/neofetch
 Description: A CLI system information tool written in BASH that supports displaying images.
 
+Package: pafari
+Architecture: amd64
+Version: 26.8-1
+Priority: optional
+Section: web
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 16620
+Depends: libadwaita-1-0 (>= 1.8~alpha), libarchive13t64 (>= 3.0.4), libc6 (>= 2.38), libcairo2 (>= 1.14.0), libgck-2-2 (>= 4.0.0), libgcr-4-4 (>= 4.0.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.83.0), libgmp10 (>= 2:6.3.0+dfsg), libgstreamer1.0-0 (>= 1.0.0), libgtk-4-1 (>= 4.13.5), libhogweed6t64, libjavascriptcoregtk-6.0-1, libjson-glib-1.0-0 (>= 1.5.2), libnettle8t64, libpango-1.0-0 (>= 1.37.5), libportal-gtk4-1 (>= 0.5), libportal1 (>= 0.7), libsecret-1-0 (>= 0.19.1), libsoup-3.0-0 (>= 3.0.3), libsqlite3-0 (>= 3.7.15), libwebkitgtk-6.0-4 (>= 2.41.4), libxml2-16 (>= 2.14.1), iso-codes, gsettings-desktop-schemas
+Filename: ./pafari_26.8-1_amd64.deb
+Size: 2237316
+MD5sum: 7ff9f7f9d4f81335a80f6e42a091b9cd
+SHA1: 22fd0905064b5523cd82aa762cdb690f1d7833c5
+SHA256: dc581c87bbf91bae84ae4ccdbb9c8c7991da68f45b57bdaa76556a31a335f600
+SHA512: ffeeebf5875acb7c89295d712c5191a0e5b22fa13a77fffc1d266cf0756319824b29ab9b91f8c18096133293c13f3336be04e82261b2cba25f41febeb89512ad
+Homepage: https://github.com/pearOS-archlinux/pafari
+Description: Pafari - a simple, clean, beautiful web browser (pearOS's fork of GNOME Web/Epiphany)
+
 Package: pearos-appmenu
 Architecture: amd64
 Version: 26.5-1
