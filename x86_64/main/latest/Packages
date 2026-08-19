@@ -1157,6 +1157,26 @@ SHA512: 80aa99a49487334d55be61211068de4faf1623e030d08c5f0ac940e35e99be521b841dfb
 Homepage: https://pearos.xyz
 Description: KWin effect that tints window backgrounds with the wallpaper color behind them
 
+Package: pearos-window-tinter
+Architecture: amd64
+Version: 26.8-5
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 180
+Provides: pearos-tinter
+Depends: libc6 (>= 2.14), libkf6colorscheme6 (>= 6.0.0), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.4.0), libstdc++6 (>= 5), kwin-wayland
+Conflicts: pearos-tinter
+Replaces: pearos-tinter
+Filename: ./pearos-window-tinter_26.8-5_amd64.deb
+Size: 39560
+MD5sum: ef7cfbfcedf80bdbe46d585d5d5395c2
+SHA1: 652e0fea18ac183e656813bc9131564cceca8470
+SHA256: 0644b66d6155f2f73ca04f51e584c48b91c75a24bdaa3ff1c4c914df3566c0f4
+SHA512: 3b5d3e85f83bf8e42d5155c8ec2290d862359f26228f477e1c17e3d00caf28e0c54da2d9dc3de597c0e38190552f4740d1b457a8ec127a01b1f3a3cd7093a97b
+Homepage: https://pearos.xyz
+Description: KWin effect that tints window backgrounds with the wallpaper color behind them
+
 Package: pearos-zshconfig
 Architecture: all
 Version: 26.4.0-1
