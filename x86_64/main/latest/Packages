@@ -1097,6 +1097,23 @@ SHA512: 696c6c9a5636a60817cf4cb1d0da3097e96912b0a2f8f67927668d0280ca6ab96ab47cf8
 Homepage: https://pearos.xyz
 Description: pearOS-style KWin window border
 
+Package: pearos-window-borders
+Architecture: amd64
+Version: 26.8.0-5
+Priority: optional
+Section: kde
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 784
+Depends: libc6 (>= 2.32), libkdecorations3-6 (>= 4:6.4.91), libkf6configcore6 (>= 6.0.0), libkf6configgui6 (>= 6.0.0), libkf6coreaddons6 (>= 6.0.0), libkf6guiaddons6 (>= 6.0.0), libkf6i18n6 (>= 6.0.0), libkf6kcmutils6 (>= 6.0.0), libkf6kcmutilscore6 (>= 6.0.0), libkf6widgetsaddons6 (>= 6.0.0), libkf6windowsystem6 (>= 6.0.0), libqt6core6t64 (>= 6.10.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.9.1), libqt6widgets6 (>= 6.7.2), libstdc++6 (>= 5), kwin-wayland, pearos-muternvf, pearos-window-tinter
+Filename: ./pearos-window-borders_26.8.0-5_amd64.deb
+Size: 157092
+MD5sum: 2bdc90a50dd4e12defa6ac74a085e085
+SHA1: 607db2bc04e54dd1a981c4b6ca187a3424820b97
+SHA256: 31376be0213dc7d78e53635e5c36a2886b48b5d01f0cb9f958896f7603ede1a3
+SHA512: 565e18d1f809e2aeac6555d3e26cfd6ae587966b158147b90d8e084e80b0a8b317b1ee6f58c1f5668a6fdf9318f155f0b2923d6fb7bb23da1fb734c9ea1cdb34
+Homepage: https://pearos.xyz
+Description: pearOS-style KWin window border
+
 Package: pearos-window-tinter
 Architecture: amd64
 Version: 26.8-2
