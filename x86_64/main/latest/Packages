@@ -1438,3 +1438,20 @@ SHA512: 51d8993b220ea2210bed2fce5a719a12502952effbbf5587828745af53d3fc81dc6bff27
 Homepage: https://pearos.xyz
 Description: pearOS System Settings application (Qt6/QML)
 
+Package: system-settings
+Architecture: amd64
+Version: 26.7.0-7
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 24768
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5), libx11-6, qt6-declarative-private-abi (= 6.10.2), fprintd, power-profiles-daemon, jq, qml6-module-qt5compat-graphicaleffects
+Filename: ./system-settings_26.7.0-7_amd64.deb
+Size: 5288200
+MD5sum: 00eedffc40d78451f1e3a364500f776e
+SHA1: 1072cd39ec2f6e1a0c8d46f77dc840282464bda2
+SHA256: 914f081f023fb4b58de8a6be75a4f8be719fac8205ca0aa85f8b2e18b8f5448e
+SHA512: 89d6aa31c4b262ff93d53ee49901f8481475bf4dacf8102baa2b71c7648d0d3230161b6b5a00dd006f1fa4b2fee1712dfbffa9a7570b82ebb2bda06e292e1c5e
+Homepage: https://pearos.xyz
+Description: pearOS System Settings application (Qt6/QML)
+
