@@ -51,6 +51,23 @@ SHA512: 4f1962db1930185c2ab453da2bfc2ab69d028551be8a0c97d25907f46b9b80afcd528e28
 Homepage: https://github.com/alxb421/hyprvisor
 Description: GPU driver manager CLI + GTK GUI for pearOS, wrapping ubuntu-drivers
 
+Package: hyprvisor
+Architecture: all
+Version: 26.8-7
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 64
+Depends: pciutils, polkitd, python3, python3-gi, gir1.2-gtk-3.0, libnotify-bin
+Filename: ./hyprvisor_26.8-7_all.deb
+Size: 4676
+MD5sum: 8940257f67368295b808456c604a9302
+SHA1: 6b494e056eefdcb3b139979a4f8ffe195fff462e
+SHA256: b0a5a6edfbf1de2c96e5a05e449661c51a3afb142cff80ec1d270ad83bc3fab1
+SHA512: 62059be9b6f367efdd6b16cf50f92574e2b2046ebce4e19e2ab7c6d27ba086841b993cf05cbc40c882afe947166b2cd72e6f550d4cdeed66261b8d357bb30f99
+Homepage: https://github.com/Pear-Project/dpkg
+Description: Additional Drivers -- hardware driver detection and installer for pearOS
+
 Package: neofetch
 Architecture: all
 Version: 8.1.0-1
