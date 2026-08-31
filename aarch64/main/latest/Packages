@@ -682,6 +682,23 @@ Description: pearOS NiceC0re System Overview application (Qt6 native)
 
 Package: system-settings
 Architecture: arm64
+Version: 26.7.0-10
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 25344
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5), libx11-6, qt6-declarative-private-abi (= 6.10.2), fprintd, power-profiles-daemon, jq, qml6-module-qt5compat-graphicaleffects
+Filename: ./system-settings_26.7.0-10_arm64.deb
+Size: 5253840
+MD5sum: d2b81422d424afa33f9f76200833abd2
+SHA1: 9b7d933d1ad2975baf59e9490c38ec280b96d53b
+SHA256: 9eab3bcfcd4f4aaaaceccc8523c8b7ca3d943df6be0cf21e6ff38c0355ecd36f
+SHA512: 23b43dbebe78efd1acbfebc2367caef1afa23cd47ee4f146e12e623f658b79ec2f12f3408789f4b3b641ee9458bcf291fef177727145fe189c19c79ca6c13311
+Homepage: https://pearos.xyz
+Description: pearOS System Settings application (Qt6/QML)
+
+Package: system-settings
+Architecture: arm64
 Version: 26.7.0-5
 Priority: optional
 Section: utils
