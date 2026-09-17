@@ -142,6 +142,26 @@ Description: Linux kernel headers for 6.18.48-pearos-debian on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-6.18.52-pearos
+Architecture: amd64
+Version: 6.18.52-34
+Priority: optional
+Section: kernel
+Source: pearos-cachy-kernel
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 56884
+Filename: ./linux-headers-6.18.52-pearos_6.18.52-34_amd64.deb
+Size: 9905430
+MD5sum: 8116bf6d70703db77d8f8b9606c64ae4
+SHA1: d5e28857c3c698fcd3547a0e833f104b796c6d16
+SHA256: 1f9bbac528a6a1cd6e2dfa35d8ee11a1cec92bc5e102a3199433b60a730a3700
+SHA512: d1ae8c87e4c53aeacdbb597e399f047031bddb8823ffa344f8dfeec5069574ec8012df31a83c8f18b77d3d4f51c70a4572943a2079abf2e16d96680b4df81522
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.18.52-pearos-debian on amd64
+ This package provides kernel header files for 6.18.52-pearos-debian on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.1.6-pearos
 Architecture: amd64
 Version: 7.1.6-10
@@ -199,6 +219,27 @@ MD5sum: 786af8bc3835b5fa67bdb16ae18f7b34
 SHA1: 442270550a69d34b9db209520fdbbdaad7c68b8b
 SHA256: e21d6b892de8695e34de2cbe2a4b1ef61708afabf7b385df328d9e4cfafdd6c5
 SHA512: dce5d721eaec393086d6ec7725a75a634de14f004506dd814c1cecd09ea46305a114150b70541afda7db3a2d3ce7d09f624c886987baf6164be3d742ad049a6f
+Homepage: https://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+
+Package: linux-libc-dev
+Architecture: amd64
+Version: 6.18.52-34
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: pearos-cachy-kernel
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 7563
+Provides: linux-kernel-headers
+Filename: ./linux-libc-dev_6.18.52-34_amd64.deb
+Size: 1514388
+MD5sum: cedb1b4a0317f79962aa365511f45999
+SHA1: 5ef50f8b71349e1c600baf6854e598743109b30e
+SHA256: ecdf086636a3c7e7b9217f7cd57c0dcb500fcd0e87f04b51de73ac3991a2969e
+SHA512: a5b9e0e8533fe88357231e65ba4f0476497d3677f55d5532492ffe29c7f60207f46644124d148f4954ac7ab69afc23c82bddc8f56c383190e10726ce7b52dec8
 Homepage: https://www.kernel.org/
 Description: Linux support headers for userspace development
  This package provides userspaces headers from the Linux kernel.  These headers
