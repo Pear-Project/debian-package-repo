@@ -716,6 +716,23 @@ Description: pearOS System Settings application (Qt6/QML)
 
 Package: system-settings
 Architecture: arm64
+Version: 26.7.0-11
+Priority: optional
+Section: utils
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 21088
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.11.2), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), libqt6qml6 (>= 6.10.2), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5), libx11-6, qt6-declarative-private-abi (= 6.11.2), fprintd, power-profiles-daemon, jq, qml6-module-qt5compat-graphicaleffects
+Filename: ./system-settings_26.7.0-11_arm64.deb
+Size: 5001964
+MD5sum: 4b0ad4609d4405f67b73d16a31bbb2ac
+SHA1: 2b40fb4fb62156b9f82389233dd7a8f66fb42d1b
+SHA256: a4f62e1a0883d0a2d16126355da24aae95f15335574b5a9b91f350439d8a1a14
+SHA512: 6fa2b2b2563186ae734c2158961cd123a6eaadc948249b2bfa8c8b61b7b9bfb6a573553c8177bfef2a704d64929256abcde26335987e6458df360ed7ddaa0498
+Homepage: https://pearos.xyz
+Description: pearOS System Settings application (Qt6/QML)
+
+Package: system-settings
+Architecture: arm64
 Version: 26.7.0-5
 Priority: optional
 Section: utils
