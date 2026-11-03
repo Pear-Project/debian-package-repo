@@ -539,6 +539,23 @@ SHA512: 68a2e3af32e76f8162dc837bc3dbd76829d7562523857cd5eebc4e19bb48ee77bf7af3c6
 Homepage: https://github.com/pearOS-archlinux/pearos-settings
 Description: Settings for pearOS Goldwing
 
+Package: pearos-settings
+Architecture: all
+Version: 26.7.0-7
+Priority: optional
+Section: misc
+Maintainer: Alexandru Balan <alxb421@gmail.com>
+Installed-Size: 78432
+Depends: konsole, kmail, pearos-notes, gnome-software, pearos-calendar, pearos-contacts, pearos-notch, pearos-todo, pearos-calculator, pearos-liquidgel, pearos-window-borders, pearos-icons, pearos-zshconfig, system-overview
+Filename: ./pearos-settings_26.7.0-7_all.deb
+Size: 44682180
+MD5sum: 84326085d40c21d559795b587321cd5d
+SHA1: b2662cdb7d7ab6b4ede40316d573d6d67101e0b6
+SHA256: 590d533313a683b4c4809a782574d7effe6d3530e547d27a531bb341c9717266
+SHA512: f61b71c6792ebc02acbfd8a893b21a35f93dbe1d2ee18fa6c34f8d804a002d4d57503feb130af151e95ee9c356edb12068b38af120b3cca3ed2a8d7b70d9b3c0
+Homepage: https://github.com/pearOS-archlinux/pearos-settings
+Description: Settings for pearOS Goldwing
+
 Package: pearos-todo
 Architecture: arm64
 Version: 26.7.0-3
